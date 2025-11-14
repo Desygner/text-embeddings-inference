@@ -9,7 +9,7 @@ python-text-embeddings-server = 'text_embeddings_server.cli:app'
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13"
-protobuf = "^4.21.7"
+protobuf = "^4.25.8"
 grpcio = "^1.51.1"
 grpcio-status = "^1.51.1"
 grpcio-reflection = "^1.51.1"
