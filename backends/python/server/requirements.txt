@@ -4,7 +4,7 @@ charset-normalizer==3.2.0 ; python_version >= "3.9" and python_version < "3.13"
 click==8.1.7 ; python_version >= "3.9" and python_version < "3.13"
 colorama==0.4.6 ; python_version >= "3.9" and python_version < "3.13" and (sys_platform == "win32" or platform_system == "Windows")
 deprecated==1.2.14 ; python_version >= "3.9" and python_version < "3.13"
-filelock==3.12.3 ; python_version >= "3.9" and python_version < "3.13"
+filelock==3.20.3 ; python_version >= "3.9" and python_version < "3.13"
 fsspec==2023.9.0 ; python_version >= "3.9" and python_version < "3.13"
 googleapis-common-protos==1.60.0 ; python_version >= "3.9" and python_version < "3.13"
 grpc-interceptor==0.15.3 ; python_version >= "3.9" and python_version < "3.13"
